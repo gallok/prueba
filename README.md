@@ -1,4 +1,4 @@
 prueba
 ======
 
-Pruebas para puppet y python
+Pruebas para puppet y python.
