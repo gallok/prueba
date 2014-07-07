@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/bin/bash
 # -*- coding: utf-8 -*-- coding: utf-8 -*-
 print "Cálculo de superficies:"
 print """ 
